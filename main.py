@@ -3,7 +3,7 @@ import time
 import google.generativeai as genai
 import button
 # Configure Gemini API
-Gemeni_API = "AIzaSyB8GRg8nG7RaAYPddEJ0PuY-jVoysueJT4"
+Gemeni_API = "ENTER-YOUR-OWN-API"
 genai.configure(api_key=Gemeni_API)
 
 # Create the model
